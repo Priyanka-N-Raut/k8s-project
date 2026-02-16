@@ -9,10 +9,7 @@ This guide walks through building a static Nginx-based Docker app, pushing it to
 After cloning/downloading, your project looks like this:
 
 ```powershell
-PS C:\Users\Priyanka\Downloads\docker-hello-world> tree
-Folder PATH listing for volume Windows
-Volume serial number is FC4F-C12D
-C:.
+
 ├───html
 │       index.html
 ├───k8s
