@@ -160,18 +160,6 @@ Example:
 http://192.168.49.2:30080
 ```
 
----
-
-✅ **Done!**
-You now have:
-
-* Static website served via **Nginx**
-* Containerized using **Docker**
-* Image hosted on **Docker Hub**
-* Deployed and exposed in **Kubernetes (Minikube)**
-
----
-
 ## **Diagram: Flow Overview**
 
 ```mermaid
